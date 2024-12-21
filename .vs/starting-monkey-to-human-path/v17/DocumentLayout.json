@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\VisStudio\\starting-monkey-to-human-path\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D30A8E6-2F42-41CF-BE7E-092C9E692A92}|starting-monkey-to-human-path.csproj|d:\\visstudio\\starting-monkey-to-human-path\\323\\kocherov\\wdad\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D30A8E6-2F42-41CF-BE7E-092C9E692A92}|starting-monkey-to-human-path.csproj|solutionrelative:323\\kocherov\\wdad\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D30A8E6-2F42-41CF-BE7E-092C9E692A92}|starting-monkey-to-human-path.csproj|d:\\visstudio\\starting-monkey-to-human-path\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8D30A8E6-2F42-41CF-BE7E-092C9E692A92}|starting-monkey-to-human-path.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D30A8E6-2F42-41CF-BE7E-092C9E692A92}|starting-monkey-to-human-path.csproj|d:\\visstudio\\starting-monkey-to-human-path\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D30A8E6-2F42-41CF-BE7E-092C9E692A92}|starting-monkey-to-human-path.csproj|D:\\VisStudio\\starting-monkey-to-human-path\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D30A8E6-2F42-41CF-BE7E-092C9E692A92}|starting-monkey-to-human-path.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\VisStudio\\starting-monkey-to-human-path\\323\\Kocherov\\wdad\\Application.cs",
+              "RelativeDocumentMoniker": "323\\Kocherov\\wdad\\Application.cs",
+              "ToolTip": "D:\\VisStudio\\starting-monkey-to-human-path\\323\\Kocherov\\wdad\\Application.cs",
+              "RelativeToolTip": "323\\Kocherov\\wdad\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:22:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\VisStudio\\starting-monkey-to-human-path\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -34,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\VisStudio\\starting-monkey-to-human-path\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -42,8 +59,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T06:10:36.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T06:10:36.758Z"
             }
           ]
         }
